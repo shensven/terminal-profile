@@ -2,14 +2,14 @@
 
 ```text
 # etc/motd
- ________  ________  _______            ___    ___ ________  ___  ___          ________  ___  __       
-|\   __  \|\   __  \|\  ___ \          |\  \  /  /|\   __  \|\  \|\  \        |\   __  \|\  \|\  \     
-\ \  \|\  \ \  \|\  \ \   __/|         \ \  \/  / | \  \|\  \ \  \\\  \       \ \  \|\  \ \  \/  /|_   
- \ \   __  \ \   _  _\ \  \_|/__        \ \    / / \ \  \\\  \ \  \\\  \       \ \  \\\  \ \   ___  \  
-  \ \  \ \  \ \  \\  \\ \  \_|\ \        \/  /  /   \ \  \\\  \ \  \\\  \       \ \  \\\  \ \  \\ \  \ 
+ ________  ________  _______            ___    ___ ________  ___  ___          ________  ___  __
+|\   __  \|\   __  \|\  ___ \          |\  \  /  /|\   __  \|\  \|\  \        |\   __  \|\  \|\  \
+\ \  \|\  \ \  \|\  \ \   __/|         \ \  \/  / | \  \|\  \ \  \\\  \       \ \  \|\  \ \  \/  /|_
+ \ \   __  \ \   _  _\ \  \_|/__        \ \    / / \ \  \\\  \ \  \\\  \       \ \  \\\  \ \   ___  \
+  \ \  \ \  \ \  \\  \\ \  \_|\ \        \/  /  /   \ \  \\\  \ \  \\\  \       \ \  \\\  \ \  \\ \  \
    \ \__\ \__\ \__\\ _\\ \_______\     __/  / /      \ \_______\ \_______\       \ \_______\ \__\\ \__\
     \|__|\|__|\|__|\|__|\|_______|    |\___/ /        \|_______|\|_______|        \|_______|\|__| \|__|
-                                      \|___|/                                                          
+                                      \|___|/
 ```
 
 ### macOS
@@ -40,3 +40,13 @@
 - [MesloLGS NF Bold.ttf](https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Bold.ttf)
 - [MesloLGS NF Italic.ttf](https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Italic.ttf)
 - [MesloLGS NF Bold Italic.ttf](https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Bold%20Italic.ttf)
+
+#### Zsh Plugins
+
+```sh
+brew install zsh-autosuggestions
+```
+
+```sh
+brew install zsh-syntax-highlighting
+```
